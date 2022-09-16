@@ -1,0 +1,30 @@
+body {
+    background-color: #F2CBBD;
+}
+
+h1 {
+    color: #733B36;
+}
+
+
+.circled {
+    list-style-type: circle;
+}
+
+#pig {
+    color:#A65B4B;
+}
+
+#dog {
+    color:#A65B4B;
+}
+
+#cat {
+    color:#A65B4B;
+}
+
+.background {
+    background-color:#e6a48a;
+    padding:5%
+    margin:1%
+}
